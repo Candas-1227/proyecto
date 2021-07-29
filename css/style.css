@@ -5,6 +5,7 @@ body {
 }
 
 .header{
+    padding: 3vw;
     display: flex;
     margin: auto;
     justify-content: space-between;
