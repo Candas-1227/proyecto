@@ -83,7 +83,9 @@ body {
 }
 
 .cajota{
+    display: flex;
+    justify-content: space-between;
     border: 5px solid yellow;
     border-radius: 5px;
-    margin: 1vw;
+    margin: 1vw 0;
 }
